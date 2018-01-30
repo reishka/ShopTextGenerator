@@ -70,8 +70,72 @@ Partial Class Form1
         Me.lbl_sku_green = New System.Windows.Forms.Label()
         Me.lbl_sku_red = New System.Windows.Forms.Label()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox2 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox3 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox4 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox5 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox6 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox7 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox8 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox9 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox10 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox11 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox12 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox13 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox14 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox15 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox16 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox17 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox18 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox19 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox20 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox21 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox22 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox23 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox24 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox25 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox26 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox27 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox28 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox29 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox30 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox31 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox32 = New System.Windows.Forms.PictureBox()
         Me.YarnBasePicker.SuspendLayout()
         Me.ColorOptions.SuspendLayout()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox7, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox8, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox10, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox11, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox12, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox13, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox14, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox15, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox16, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox17, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox18, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox19, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox20, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox21, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox22, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox23, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox24, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox25, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox26, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox27, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox28, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox29, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox30, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox31, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox32, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'YarnBasePicker
@@ -142,6 +206,38 @@ Partial Class Form1
         '
         'ColorOptions
         '
+        Me.ColorOptions.Controls.Add(Me.PictureBox17)
+        Me.ColorOptions.Controls.Add(Me.PictureBox18)
+        Me.ColorOptions.Controls.Add(Me.PictureBox19)
+        Me.ColorOptions.Controls.Add(Me.PictureBox20)
+        Me.ColorOptions.Controls.Add(Me.PictureBox21)
+        Me.ColorOptions.Controls.Add(Me.PictureBox22)
+        Me.ColorOptions.Controls.Add(Me.PictureBox23)
+        Me.ColorOptions.Controls.Add(Me.PictureBox24)
+        Me.ColorOptions.Controls.Add(Me.PictureBox25)
+        Me.ColorOptions.Controls.Add(Me.PictureBox26)
+        Me.ColorOptions.Controls.Add(Me.PictureBox27)
+        Me.ColorOptions.Controls.Add(Me.PictureBox28)
+        Me.ColorOptions.Controls.Add(Me.PictureBox29)
+        Me.ColorOptions.Controls.Add(Me.PictureBox30)
+        Me.ColorOptions.Controls.Add(Me.PictureBox31)
+        Me.ColorOptions.Controls.Add(Me.PictureBox32)
+        Me.ColorOptions.Controls.Add(Me.PictureBox16)
+        Me.ColorOptions.Controls.Add(Me.PictureBox13)
+        Me.ColorOptions.Controls.Add(Me.PictureBox14)
+        Me.ColorOptions.Controls.Add(Me.PictureBox15)
+        Me.ColorOptions.Controls.Add(Me.PictureBox10)
+        Me.ColorOptions.Controls.Add(Me.PictureBox11)
+        Me.ColorOptions.Controls.Add(Me.PictureBox12)
+        Me.ColorOptions.Controls.Add(Me.PictureBox7)
+        Me.ColorOptions.Controls.Add(Me.PictureBox8)
+        Me.ColorOptions.Controls.Add(Me.PictureBox9)
+        Me.ColorOptions.Controls.Add(Me.PictureBox4)
+        Me.ColorOptions.Controls.Add(Me.PictureBox5)
+        Me.ColorOptions.Controls.Add(Me.PictureBox6)
+        Me.ColorOptions.Controls.Add(Me.PictureBox3)
+        Me.ColorOptions.Controls.Add(Me.PictureBox2)
+        Me.ColorOptions.Controls.Add(Me.PictureBox1)
         Me.ColorOptions.Controls.Add(Me.rb_dark_teal)
         Me.ColorOptions.Controls.Add(Me.rb_grey)
         Me.ColorOptions.Controls.Add(Me.rb_coral)
@@ -177,7 +273,7 @@ Partial Class Form1
         Me.rb_dark_teal.AutoSize = True
         Me.rb_dark_teal.BackColor = System.Drawing.SystemColors.Control
         Me.rb_dark_teal.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.rb_dark_teal.Location = New System.Drawing.Point(139, 233)
+        Me.rb_dark_teal.Location = New System.Drawing.Point(156, 103)
         Me.rb_dark_teal.Name = "rb_dark_teal"
         Me.rb_dark_teal.Size = New System.Drawing.Size(72, 17)
         Me.rb_dark_teal.TabIndex = 22
@@ -187,7 +283,7 @@ Partial Class Form1
         'rb_grey
         '
         Me.rb_grey.AutoSize = True
-        Me.rb_grey.Location = New System.Drawing.Point(139, 210)
+        Me.rb_grey.Location = New System.Drawing.Point(156, 82)
         Me.rb_grey.Name = "rb_grey"
         Me.rb_grey.Size = New System.Drawing.Size(47, 17)
         Me.rb_grey.TabIndex = 21
@@ -197,7 +293,7 @@ Partial Class Form1
         'rb_coral
         '
         Me.rb_coral.AutoSize = True
-        Me.rb_coral.Location = New System.Drawing.Point(139, 187)
+        Me.rb_coral.Location = New System.Drawing.Point(156, 124)
         Me.rb_coral.Name = "rb_coral"
         Me.rb_coral.Size = New System.Drawing.Size(49, 17)
         Me.rb_coral.TabIndex = 20
@@ -207,7 +303,7 @@ Partial Class Form1
         'rb_light_brown
         '
         Me.rb_light_brown.AutoSize = True
-        Me.rb_light_brown.Location = New System.Drawing.Point(139, 164)
+        Me.rb_light_brown.Location = New System.Drawing.Point(156, 145)
         Me.rb_light_brown.Name = "rb_light_brown"
         Me.rb_light_brown.Size = New System.Drawing.Size(81, 17)
         Me.rb_light_brown.TabIndex = 19
@@ -217,7 +313,7 @@ Partial Class Form1
         'rb_light_green
         '
         Me.rb_light_green.AutoSize = True
-        Me.rb_light_green.Location = New System.Drawing.Point(139, 141)
+        Me.rb_light_green.Location = New System.Drawing.Point(156, 61)
         Me.rb_light_green.Name = "rb_light_green"
         Me.rb_light_green.Size = New System.Drawing.Size(80, 17)
         Me.rb_light_green.TabIndex = 18
@@ -227,7 +323,7 @@ Partial Class Form1
         'rb_olive
         '
         Me.rb_olive.AutoSize = True
-        Me.rb_olive.Location = New System.Drawing.Point(139, 118)
+        Me.rb_olive.Location = New System.Drawing.Point(156, 40)
         Me.rb_olive.Name = "rb_olive"
         Me.rb_olive.Size = New System.Drawing.Size(49, 17)
         Me.rb_olive.TabIndex = 17
@@ -237,7 +333,7 @@ Partial Class Form1
         'rb_dark_blue
         '
         Me.rb_dark_blue.AutoSize = True
-        Me.rb_dark_blue.Location = New System.Drawing.Point(139, 95)
+        Me.rb_dark_blue.Location = New System.Drawing.Point(156, 19)
         Me.rb_dark_blue.Name = "rb_dark_blue"
         Me.rb_dark_blue.Size = New System.Drawing.Size(72, 17)
         Me.rb_dark_blue.TabIndex = 16
@@ -247,7 +343,7 @@ Partial Class Form1
         'rb_light_purple
         '
         Me.rb_light_purple.AutoSize = True
-        Me.rb_light_purple.Location = New System.Drawing.Point(139, 74)
+        Me.rb_light_purple.Location = New System.Drawing.Point(27, 333)
         Me.rb_light_purple.Name = "rb_light_purple"
         Me.rb_light_purple.Size = New System.Drawing.Size(81, 17)
         Me.rb_light_purple.TabIndex = 15
@@ -257,7 +353,7 @@ Partial Class Form1
         'rb_dark_green
         '
         Me.rb_dark_green.AutoSize = True
-        Me.rb_dark_green.Location = New System.Drawing.Point(139, 51)
+        Me.rb_dark_green.Location = New System.Drawing.Point(27, 312)
         Me.rb_dark_green.Name = "rb_dark_green"
         Me.rb_dark_green.Size = New System.Drawing.Size(80, 17)
         Me.rb_dark_green.TabIndex = 14
@@ -267,7 +363,7 @@ Partial Class Form1
         'rb_brick_red
         '
         Me.rb_brick_red.AutoSize = True
-        Me.rb_brick_red.Location = New System.Drawing.Point(139, 28)
+        Me.rb_brick_red.Location = New System.Drawing.Point(27, 291)
         Me.rb_brick_red.Name = "rb_brick_red"
         Me.rb_brick_red.Size = New System.Drawing.Size(72, 17)
         Me.rb_brick_red.TabIndex = 13
@@ -277,7 +373,7 @@ Partial Class Form1
         'rb_black
         '
         Me.rb_black.AutoSize = True
-        Me.rb_black.Location = New System.Drawing.Point(7, 302)
+        Me.rb_black.Location = New System.Drawing.Point(27, 270)
         Me.rb_black.Name = "rb_black"
         Me.rb_black.Size = New System.Drawing.Size(52, 17)
         Me.rb_black.TabIndex = 12
@@ -287,7 +383,7 @@ Partial Class Form1
         'rb_teal
         '
         Me.rb_teal.AutoSize = True
-        Me.rb_teal.Location = New System.Drawing.Point(7, 279)
+        Me.rb_teal.Location = New System.Drawing.Point(27, 250)
         Me.rb_teal.Name = "rb_teal"
         Me.rb_teal.Size = New System.Drawing.Size(46, 17)
         Me.rb_teal.TabIndex = 11
@@ -297,7 +393,7 @@ Partial Class Form1
         'rb_neon_pink
         '
         Me.rb_neon_pink.AutoSize = True
-        Me.rb_neon_pink.Location = New System.Drawing.Point(7, 256)
+        Me.rb_neon_pink.Location = New System.Drawing.Point(27, 229)
         Me.rb_neon_pink.Name = "rb_neon_pink"
         Me.rb_neon_pink.Size = New System.Drawing.Size(75, 17)
         Me.rb_neon_pink.TabIndex = 10
@@ -307,7 +403,7 @@ Partial Class Form1
         'rb_orange
         '
         Me.rb_orange.AutoSize = True
-        Me.rb_orange.Location = New System.Drawing.Point(7, 233)
+        Me.rb_orange.Location = New System.Drawing.Point(27, 208)
         Me.rb_orange.Name = "rb_orange"
         Me.rb_orange.Size = New System.Drawing.Size(60, 17)
         Me.rb_orange.TabIndex = 9
@@ -317,7 +413,7 @@ Partial Class Form1
         'rb_yellow_green
         '
         Me.rb_yellow_green.AutoSize = True
-        Me.rb_yellow_green.Location = New System.Drawing.Point(7, 210)
+        Me.rb_yellow_green.Location = New System.Drawing.Point(27, 187)
         Me.rb_yellow_green.Name = "rb_yellow_green"
         Me.rb_yellow_green.Size = New System.Drawing.Size(88, 17)
         Me.rb_yellow_green.TabIndex = 8
@@ -327,7 +423,7 @@ Partial Class Form1
         'rb_blue
         '
         Me.rb_blue.AutoSize = True
-        Me.rb_blue.Location = New System.Drawing.Point(7, 187)
+        Me.rb_blue.Location = New System.Drawing.Point(27, 166)
         Me.rb_blue.Name = "rb_blue"
         Me.rb_blue.Size = New System.Drawing.Size(46, 17)
         Me.rb_blue.TabIndex = 7
@@ -337,7 +433,7 @@ Partial Class Form1
         'rb_yellow
         '
         Me.rb_yellow.AutoSize = True
-        Me.rb_yellow.Location = New System.Drawing.Point(7, 164)
+        Me.rb_yellow.Location = New System.Drawing.Point(27, 145)
         Me.rb_yellow.Name = "rb_yellow"
         Me.rb_yellow.Size = New System.Drawing.Size(56, 17)
         Me.rb_yellow.TabIndex = 6
@@ -347,7 +443,7 @@ Partial Class Form1
         'rb_peach
         '
         Me.rb_peach.AutoSize = True
-        Me.rb_peach.Location = New System.Drawing.Point(7, 141)
+        Me.rb_peach.Location = New System.Drawing.Point(27, 124)
         Me.rb_peach.Name = "rb_peach"
         Me.rb_peach.Size = New System.Drawing.Size(56, 17)
         Me.rb_peach.TabIndex = 5
@@ -357,7 +453,7 @@ Partial Class Form1
         'rb_light_blue
         '
         Me.rb_light_blue.AutoSize = True
-        Me.rb_light_blue.Location = New System.Drawing.Point(7, 118)
+        Me.rb_light_blue.Location = New System.Drawing.Point(27, 103)
         Me.rb_light_blue.Name = "rb_light_blue"
         Me.rb_light_blue.Size = New System.Drawing.Size(72, 17)
         Me.rb_light_blue.TabIndex = 4
@@ -368,7 +464,7 @@ Partial Class Form1
         '
         Me.rb_berry_purple.AutoSize = True
         Me.rb_berry_purple.BackColor = System.Drawing.SystemColors.Control
-        Me.rb_berry_purple.Location = New System.Drawing.Point(7, 95)
+        Me.rb_berry_purple.Location = New System.Drawing.Point(27, 82)
         Me.rb_berry_purple.Name = "rb_berry_purple"
         Me.rb_berry_purple.Size = New System.Drawing.Size(82, 17)
         Me.rb_berry_purple.TabIndex = 3
@@ -378,7 +474,7 @@ Partial Class Form1
         'rb_green
         '
         Me.rb_green.AutoSize = True
-        Me.rb_green.Location = New System.Drawing.Point(7, 74)
+        Me.rb_green.Location = New System.Drawing.Point(27, 61)
         Me.rb_green.Name = "rb_green"
         Me.rb_green.Size = New System.Drawing.Size(54, 17)
         Me.rb_green.TabIndex = 2
@@ -388,7 +484,7 @@ Partial Class Form1
         'rb_darkPurple
         '
         Me.rb_darkPurple.AutoSize = True
-        Me.rb_darkPurple.Location = New System.Drawing.Point(7, 51)
+        Me.rb_darkPurple.Location = New System.Drawing.Point(27, 40)
         Me.rb_darkPurple.Name = "rb_darkPurple"
         Me.rb_darkPurple.Size = New System.Drawing.Size(81, 17)
         Me.rb_darkPurple.TabIndex = 1
@@ -399,7 +495,7 @@ Partial Class Form1
         '
         Me.rb_pink.AutoSize = True
         Me.rb_pink.Checked = True
-        Me.rb_pink.Location = New System.Drawing.Point(7, 28)
+        Me.rb_pink.Location = New System.Drawing.Point(27, 19)
         Me.rb_pink.Name = "rb_pink"
         Me.rb_pink.Size = New System.Drawing.Size(46, 17)
         Me.rb_pink.TabIndex = 0
@@ -555,10 +651,290 @@ Partial Class Form1
         'Timer1
         '
         '
+        'PictureBox1
+        '
+        Me.PictureBox1.BackColor = System.Drawing.Color.FromArgb(CType(CType(205, Byte), Integer), CType(CType(135, Byte), Integer), CType(CType(164, Byte), Integer))
+        Me.PictureBox1.Location = New System.Drawing.Point(6, 19)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox1.TabIndex = 20
+        Me.PictureBox1.TabStop = False
+        '
+        'PictureBox2
+        '
+        Me.PictureBox2.BackColor = System.Drawing.Color.FromArgb(CType(CType(40, Byte), Integer), CType(CType(20, Byte), Integer), CType(CType(91, Byte), Integer))
+        Me.PictureBox2.Location = New System.Drawing.Point(6, 40)
+        Me.PictureBox2.Name = "PictureBox2"
+        Me.PictureBox2.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox2.TabIndex = 23
+        Me.PictureBox2.TabStop = False
+        '
+        'PictureBox3
+        '
+        Me.PictureBox3.BackColor = System.Drawing.Color.FromArgb(CType(CType(96, Byte), Integer), CType(CType(188, Byte), Integer), CType(CType(101, Byte), Integer))
+        Me.PictureBox3.Location = New System.Drawing.Point(6, 61)
+        Me.PictureBox3.Name = "PictureBox3"
+        Me.PictureBox3.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox3.TabIndex = 24
+        Me.PictureBox3.TabStop = False
+        '
+        'PictureBox4
+        '
+        Me.PictureBox4.BackColor = System.Drawing.Color.FromArgb(CType(CType(217, Byte), Integer), CType(CType(160, Byte), Integer), CType(CType(110, Byte), Integer))
+        Me.PictureBox4.Location = New System.Drawing.Point(6, 124)
+        Me.PictureBox4.Name = "PictureBox4"
+        Me.PictureBox4.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox4.TabIndex = 27
+        Me.PictureBox4.TabStop = False
+        '
+        'PictureBox5
+        '
+        Me.PictureBox5.BackColor = System.Drawing.Color.FromArgb(CType(CType(166, Byte), Integer), CType(CType(218, Byte), Integer), CType(CType(226, Byte), Integer))
+        Me.PictureBox5.Location = New System.Drawing.Point(6, 103)
+        Me.PictureBox5.Name = "PictureBox5"
+        Me.PictureBox5.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox5.TabIndex = 26
+        Me.PictureBox5.TabStop = False
+        '
+        'PictureBox6
+        '
+        Me.PictureBox6.BackColor = System.Drawing.Color.FromArgb(CType(CType(167, Byte), Integer), CType(CType(25, Byte), Integer), CType(CType(130, Byte), Integer))
+        Me.PictureBox6.Location = New System.Drawing.Point(6, 82)
+        Me.PictureBox6.Name = "PictureBox6"
+        Me.PictureBox6.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox6.TabIndex = 25
+        Me.PictureBox6.TabStop = False
+        '
+        'PictureBox7
+        '
+        Me.PictureBox7.BackColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(210, Byte), Integer), CType(CType(28, Byte), Integer))
+        Me.PictureBox7.Location = New System.Drawing.Point(6, 187)
+        Me.PictureBox7.Name = "PictureBox7"
+        Me.PictureBox7.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox7.TabIndex = 30
+        Me.PictureBox7.TabStop = False
+        '
+        'PictureBox8
+        '
+        Me.PictureBox8.BackColor = System.Drawing.Color.FromArgb(CType(CType(31, Byte), Integer), CType(CType(149, Byte), Integer), CType(CType(220, Byte), Integer))
+        Me.PictureBox8.Location = New System.Drawing.Point(6, 166)
+        Me.PictureBox8.Name = "PictureBox8"
+        Me.PictureBox8.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox8.TabIndex = 29
+        Me.PictureBox8.TabStop = False
+        '
+        'PictureBox9
+        '
+        Me.PictureBox9.BackColor = System.Drawing.Color.FromArgb(CType(CType(235, Byte), Integer), CType(CType(216, Byte), Integer), CType(CType(55, Byte), Integer))
+        Me.PictureBox9.Location = New System.Drawing.Point(6, 145)
+        Me.PictureBox9.Name = "PictureBox9"
+        Me.PictureBox9.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox9.TabIndex = 28
+        Me.PictureBox9.TabStop = False
+        '
+        'PictureBox10
+        '
+        Me.PictureBox10.BackColor = System.Drawing.Color.FromArgb(CType(CType(107, Byte), Integer), CType(CType(180, Byte), Integer), CType(CType(176, Byte), Integer))
+        Me.PictureBox10.Location = New System.Drawing.Point(6, 250)
+        Me.PictureBox10.Name = "PictureBox10"
+        Me.PictureBox10.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox10.TabIndex = 33
+        Me.PictureBox10.TabStop = False
+        '
+        'PictureBox11
+        '
+        Me.PictureBox11.BackColor = System.Drawing.Color.FromArgb(CType(CType(235, Byte), Integer), CType(CType(79, Byte), Integer), CType(CType(146, Byte), Integer))
+        Me.PictureBox11.Location = New System.Drawing.Point(6, 229)
+        Me.PictureBox11.Name = "PictureBox11"
+        Me.PictureBox11.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox11.TabIndex = 32
+        Me.PictureBox11.TabStop = False
+        '
+        'PictureBox12
+        '
+        Me.PictureBox12.BackColor = System.Drawing.Color.FromArgb(CType(CType(235, Byte), Integer), CType(CType(172, Byte), Integer), CType(CType(44, Byte), Integer))
+        Me.PictureBox12.Location = New System.Drawing.Point(6, 208)
+        Me.PictureBox12.Name = "PictureBox12"
+        Me.PictureBox12.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox12.TabIndex = 31
+        Me.PictureBox12.TabStop = False
+        '
+        'PictureBox13
+        '
+        Me.PictureBox13.BackColor = System.Drawing.Color.FromArgb(CType(CType(45, Byte), Integer), CType(CType(94, Byte), Integer), CType(CType(45, Byte), Integer))
+        Me.PictureBox13.Location = New System.Drawing.Point(6, 312)
+        Me.PictureBox13.Name = "PictureBox13"
+        Me.PictureBox13.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox13.TabIndex = 36
+        Me.PictureBox13.TabStop = False
+        '
+        'PictureBox14
+        '
+        Me.PictureBox14.BackColor = System.Drawing.Color.FromArgb(CType(CType(204, Byte), Integer), CType(CType(45, Byte), Integer), CType(CType(75, Byte), Integer))
+        Me.PictureBox14.Location = New System.Drawing.Point(6, 291)
+        Me.PictureBox14.Name = "PictureBox14"
+        Me.PictureBox14.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox14.TabIndex = 35
+        Me.PictureBox14.TabStop = False
+        '
+        'PictureBox15
+        '
+        Me.PictureBox15.BackColor = System.Drawing.Color.Black
+        Me.PictureBox15.Location = New System.Drawing.Point(6, 270)
+        Me.PictureBox15.Name = "PictureBox15"
+        Me.PictureBox15.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox15.TabIndex = 34
+        Me.PictureBox15.TabStop = False
+        '
+        'PictureBox16
+        '
+        Me.PictureBox16.BackColor = System.Drawing.Color.FromArgb(CType(CType(171, Byte), Integer), CType(CType(161, Byte), Integer), CType(CType(195, Byte), Integer))
+        Me.PictureBox16.Location = New System.Drawing.Point(6, 333)
+        Me.PictureBox16.Name = "PictureBox16"
+        Me.PictureBox16.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox16.TabIndex = 37
+        Me.PictureBox16.TabStop = False
+        '
+        'PictureBox17
+        '
+        Me.PictureBox17.Location = New System.Drawing.Point(135, 333)
+        Me.PictureBox17.Name = "PictureBox17"
+        Me.PictureBox17.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox17.TabIndex = 53
+        Me.PictureBox17.TabStop = False
+        '
+        'PictureBox18
+        '
+        Me.PictureBox18.Location = New System.Drawing.Point(135, 312)
+        Me.PictureBox18.Name = "PictureBox18"
+        Me.PictureBox18.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox18.TabIndex = 52
+        Me.PictureBox18.TabStop = False
+        '
+        'PictureBox19
+        '
+        Me.PictureBox19.Location = New System.Drawing.Point(135, 291)
+        Me.PictureBox19.Name = "PictureBox19"
+        Me.PictureBox19.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox19.TabIndex = 51
+        Me.PictureBox19.TabStop = False
+        '
+        'PictureBox20
+        '
+        Me.PictureBox20.Location = New System.Drawing.Point(135, 270)
+        Me.PictureBox20.Name = "PictureBox20"
+        Me.PictureBox20.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox20.TabIndex = 50
+        Me.PictureBox20.TabStop = False
+        '
+        'PictureBox21
+        '
+        Me.PictureBox21.Location = New System.Drawing.Point(135, 250)
+        Me.PictureBox21.Name = "PictureBox21"
+        Me.PictureBox21.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox21.TabIndex = 49
+        Me.PictureBox21.TabStop = False
+        '
+        'PictureBox22
+        '
+        Me.PictureBox22.Location = New System.Drawing.Point(135, 229)
+        Me.PictureBox22.Name = "PictureBox22"
+        Me.PictureBox22.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox22.TabIndex = 48
+        Me.PictureBox22.TabStop = False
+        '
+        'PictureBox23
+        '
+        Me.PictureBox23.Location = New System.Drawing.Point(135, 208)
+        Me.PictureBox23.Name = "PictureBox23"
+        Me.PictureBox23.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox23.TabIndex = 47
+        Me.PictureBox23.TabStop = False
+        '
+        'PictureBox24
+        '
+        Me.PictureBox24.Location = New System.Drawing.Point(135, 187)
+        Me.PictureBox24.Name = "PictureBox24"
+        Me.PictureBox24.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox24.TabIndex = 46
+        Me.PictureBox24.TabStop = False
+        '
+        'PictureBox25
+        '
+        Me.PictureBox25.Location = New System.Drawing.Point(135, 166)
+        Me.PictureBox25.Name = "PictureBox25"
+        Me.PictureBox25.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox25.TabIndex = 45
+        Me.PictureBox25.TabStop = False
+        '
+        'PictureBox26
+        '
+        Me.PictureBox26.BackColor = System.Drawing.Color.FromArgb(CType(CType(120, Byte), Integer), CType(CType(92, Byte), Integer), CType(CType(94, Byte), Integer))
+        Me.PictureBox26.Location = New System.Drawing.Point(135, 145)
+        Me.PictureBox26.Name = "PictureBox26"
+        Me.PictureBox26.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox26.TabIndex = 44
+        Me.PictureBox26.TabStop = False
+        '
+        'PictureBox27
+        '
+        Me.PictureBox27.BackColor = System.Drawing.Color.FromArgb(CType(CType(228, Byte), Integer), CType(CType(108, Byte), Integer), CType(CType(109, Byte), Integer))
+        Me.PictureBox27.Location = New System.Drawing.Point(135, 124)
+        Me.PictureBox27.Name = "PictureBox27"
+        Me.PictureBox27.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox27.TabIndex = 43
+        Me.PictureBox27.TabStop = False
+        '
+        'PictureBox28
+        '
+        Me.PictureBox28.BackColor = System.Drawing.Color.FromArgb(CType(CType(47, Byte), Integer), CType(CType(112, Byte), Integer), CType(CType(131, Byte), Integer))
+        Me.PictureBox28.Location = New System.Drawing.Point(135, 103)
+        Me.PictureBox28.Name = "PictureBox28"
+        Me.PictureBox28.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox28.TabIndex = 42
+        Me.PictureBox28.TabStop = False
+        '
+        'PictureBox29
+        '
+        Me.PictureBox29.BackColor = System.Drawing.Color.FromArgb(CType(CType(145, Byte), Integer), CType(CType(158, Byte), Integer), CType(CType(171, Byte), Integer))
+        Me.PictureBox29.Location = New System.Drawing.Point(135, 82)
+        Me.PictureBox29.Name = "PictureBox29"
+        Me.PictureBox29.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox29.TabIndex = 41
+        Me.PictureBox29.TabStop = False
+        '
+        'PictureBox30
+        '
+        Me.PictureBox30.BackColor = System.Drawing.Color.FromArgb(CType(CType(178, Byte), Integer), CType(CType(182, Byte), Integer), CType(CType(145, Byte), Integer))
+        Me.PictureBox30.Location = New System.Drawing.Point(135, 61)
+        Me.PictureBox30.Name = "PictureBox30"
+        Me.PictureBox30.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox30.TabIndex = 40
+        Me.PictureBox30.TabStop = False
+        '
+        'PictureBox31
+        '
+        Me.PictureBox31.BackColor = System.Drawing.Color.FromArgb(CType(CType(149, Byte), Integer), CType(CType(167, Byte), Integer), CType(CType(143, Byte), Integer))
+        Me.PictureBox31.Location = New System.Drawing.Point(135, 40)
+        Me.PictureBox31.Name = "PictureBox31"
+        Me.PictureBox31.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox31.TabIndex = 39
+        Me.PictureBox31.TabStop = False
+        '
+        'PictureBox32
+        '
+        Me.PictureBox32.Location = New System.Drawing.Point(135, 19)
+        Me.PictureBox32.Name = "PictureBox32"
+        Me.PictureBox32.Size = New System.Drawing.Size(15, 15)
+        Me.PictureBox32.TabIndex = 38
+        Me.PictureBox32.TabStop = False
+        '
         'Form1
         '
+        Me.AcceptButton = Me.btn_generate
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.SystemColors.Control
         Me.ClientSize = New System.Drawing.Size(1227, 490)
         Me.Controls.Add(Me.lbl_sku_red)
         Me.Controls.Add(Me.lbl_sku_green)
@@ -578,12 +954,45 @@ Partial Class Form1
         Me.Controls.Add(Me.btn_generate)
         Me.Controls.Add(Me.ColorOptions)
         Me.Controls.Add(Me.YarnBasePicker)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.YarnBasePicker.ResumeLayout(False)
         Me.YarnBasePicker.PerformLayout()
         Me.ColorOptions.ResumeLayout(False)
         Me.ColorOptions.PerformLayout()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox7, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox8, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox10, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox11, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox12, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox13, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox14, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox15, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox16, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox17, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox18, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox19, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox20, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox21, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox22, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox23, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox24, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox25, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox26, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox27, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox28, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox29, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox30, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox31, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox32, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -636,4 +1045,36 @@ Partial Class Form1
     Friend WithEvents lbl_sku_green As Label
     Friend WithEvents lbl_sku_red As Label
     Friend WithEvents Timer1 As Timer
+    Friend WithEvents PictureBox3 As PictureBox
+    Friend WithEvents PictureBox2 As PictureBox
+    Friend WithEvents PictureBox1 As PictureBox
+    Friend WithEvents PictureBox17 As PictureBox
+    Friend WithEvents PictureBox18 As PictureBox
+    Friend WithEvents PictureBox19 As PictureBox
+    Friend WithEvents PictureBox20 As PictureBox
+    Friend WithEvents PictureBox21 As PictureBox
+    Friend WithEvents PictureBox22 As PictureBox
+    Friend WithEvents PictureBox23 As PictureBox
+    Friend WithEvents PictureBox24 As PictureBox
+    Friend WithEvents PictureBox25 As PictureBox
+    Friend WithEvents PictureBox26 As PictureBox
+    Friend WithEvents PictureBox27 As PictureBox
+    Friend WithEvents PictureBox28 As PictureBox
+    Friend WithEvents PictureBox29 As PictureBox
+    Friend WithEvents PictureBox30 As PictureBox
+    Friend WithEvents PictureBox31 As PictureBox
+    Friend WithEvents PictureBox32 As PictureBox
+    Friend WithEvents PictureBox16 As PictureBox
+    Friend WithEvents PictureBox13 As PictureBox
+    Friend WithEvents PictureBox14 As PictureBox
+    Friend WithEvents PictureBox15 As PictureBox
+    Friend WithEvents PictureBox10 As PictureBox
+    Friend WithEvents PictureBox11 As PictureBox
+    Friend WithEvents PictureBox12 As PictureBox
+    Friend WithEvents PictureBox7 As PictureBox
+    Friend WithEvents PictureBox8 As PictureBox
+    Friend WithEvents PictureBox9 As PictureBox
+    Friend WithEvents PictureBox4 As PictureBox
+    Friend WithEvents PictureBox5 As PictureBox
+    Friend WithEvents PictureBox6 As PictureBox
 End Class

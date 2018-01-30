@@ -283,4 +283,8 @@
         Timer1.Stop()
 
     End Sub
+
+    Private Sub ColorOptions_Enter(sender As Object, e As EventArgs) Handles ColorOptions.Enter
+
+    End Sub
 End Class
